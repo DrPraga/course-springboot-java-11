@@ -8,7 +8,6 @@ import javax.persistence.ManyToOne;
 
 import com.DrPraga.course.entities.Order;
 import com.DrPraga.course.entities.Product;
-import com.fasterxml.jackson.annotation.JsonIgnore;
 
 
 @Embeddable
